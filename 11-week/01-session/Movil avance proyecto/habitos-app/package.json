@@ -1,0 +1,17 @@
+{
+  "name": "habitos-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "vite",
+    "build": "vite build",
+    "lint": "eslint . --ext .ts,.js,.vue"
+  },
+  "dependencies": {
+    "vue": "^3.2.0",
+    "@ionic/vue": "^6.0.0",
+    "@ionic/vue-router": "^6.0.0",
+    "ionicons": "^6.0.0",
+    "axios": "^1.4.0"
+  }
+}
